@@ -1,5 +1,5 @@
 # HI-MC code & demos
-Data & code for the HI-MC project.
+The [HI-MC project](https://reporter.nih.gov/project-details/10665380) aims to reconstruct 10mm^3 of the mouse hippocampal formation using EM connectomics. This repository contains sample code for analysis of data relevant to this project, principally using tools first developed by the [Drosophila Connectomics Group](https://www.zoo.cam.ac.uk/research/groups/connectomics) in Cambridge for flies and now being adapted for larger brains.
 
 ## Content
 
