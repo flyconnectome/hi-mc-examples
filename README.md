@@ -6,5 +6,5 @@ The [HI-MC project](https://reporter.nih.gov/project-details/10665380) aims to r
 ### Examples
 
 - [examples/allen_fmost_ingest](https://github.com/flyconnectome/hi-mc/blob/main/examples/allen_fmost_ingest.ipynb) shows ingest of Allen fMOST data
-- [examples/allen_fmost_transform](https://github.com/flyconnectome/hi-mc/blob/main/examples/allen_fmost_transform.ipynb) demos transforms of neurons in Allen fMOST space to a test uCT colume
+- [examples/allen_fmost_transform](https://github.com/flyconnectome/hi-mc/blob/main/examples/allen_fmost_transform.ipynb) demos transforms of neurons in Allen fMOST space to a uCT volume
 - [examples/qiu2024_nblast](https://github.com/flyconnectome/hi-mc/blob/main/examples/qiu2024_nblast.ipynb) runs an all-by-all NBLAST for ~4k neurons of the [Qiu et al. (2024)](https://www.science.org/doi/full/10.1126/science.adj9198) [HPF dataset](https://mouse.digital-brain.cn/hipp), see also [Dryad dataset](https://doi.org/10.5061/dryad.wh70rxwv4)
